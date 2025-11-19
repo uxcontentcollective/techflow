@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "projects": "Projects",
+    "notifications": "Notifications",
+    "settings": "Settings",
+    "upgrade": "Upgrade",
+    "signOut": "Log out"
+  },
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "confirm": "Confirm",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "retry": "Try again"
+  },
+  "empty": {
+    "generic": "Nothing here yet.",
+    "projects": "You don't have any projects yet. Create one to get started.",
+    "tasks": "No tasks in this project. Add one to get started.",
+    "notifications": "You're all caught up. No new notifications.",
+    "search": "No results match your search. Try different keywords.",
+    "team": "No team members added yet. Invite someone to collaborate."
+  },
+  "status": {
+    "active": "Active",
+    "completed": "Completed",
+    "archived": "Archived",
+    "onTrack": "On track",
+    "atRisk": "At risk",
+    "overdue": "Overdue",
+    "draft": "Draft"
+  },
+  "time": {
+    "justNow": "Just now",
+    "minutesAgo": "{count} minutes ago",
+    "hoursAgo": "{count} hours ago",
+    "daysAgo": "{count} days ago",
+    "today": "Today",
+    "yesterday": "Yesterday"
+  },
+  "confirmation": {
+    "unsavedChanges": "You have unsaved changes. Are you sure you want to leave?",
+    "deleteConfirm": "Are you sure you want to delete this? This action cannot be undone."
+  }
+}

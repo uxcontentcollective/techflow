@@ -1,0 +1,34 @@
+{
+  "title": "Account Settings",
+  "profile": {
+    "heading": "Profile",
+    "displayName": "Display name",
+    "email": "Email address",
+    "role": "Role",
+    "avatar": "Profile photo",
+    "changeAvatar": "Change photo",
+    "helper": "This is how your name appears to other users."
+  },
+  "notifications": {
+    "heading": "Notifications",
+    "emailUpdates": "Email me about important updates",
+    "marketing": "Send me product news and announcements",
+    "taskAssigned": "Notify me when a task is assigned to me",
+    "mentions": "Notify me when someone mentions me",
+    "weeklyDigest": "Send me a weekly project summary"
+  },
+  "appearance": {
+    "heading": "Appearance",
+    "theme": "Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System default",
+    "language": "Language"
+  },
+  "button": {
+    "save": "Save changes",
+    "cancel": "Cancel"
+  },
+  "saved": "Your settings have been saved.",
+  "error": "We couldn't save your settings. Please try again."
+}
