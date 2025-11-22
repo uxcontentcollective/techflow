@@ -1,0 +1,88 @@
+{
+  "banner": {
+    "welcome": "Welcome back! Check out what's new in TechFlow.",
+    "dismiss": "Dismiss"
+  },
+  "task": {
+    "assigned": {
+      "title": "New task assigned",
+      "body": "{userName} assigned you to \"{taskName}\" in {projectName}.",
+      "action": "View project"
+    },
+    "completed": {
+      "title": "Task completed",
+      "body": "{userName} marked \"{taskName}\" as complete in {projectName}.",
+      "action": "Go to project"
+    },
+    "overdue": {
+      "title": "Task overdue",
+      "body": "Your task \"{taskName}\" in {projectName} is past its due date.",
+      "action": "Open project"
+    },
+    "commented": {
+      "title": "New comment on task",
+      "body": "{userName} commented on \"{taskName}\" in {projectName}.",
+      "action": "View project"
+    },
+    "statusChanged": {
+      "title": "Task status updated",
+      "body": "{userName} changed the status of \"{taskName}\" to {newStatus}.",
+      "action": "View project"
+    }
+  },
+  "project": {
+    "created": {
+      "title": "New project created",
+      "body": "{userName} created a new project: {projectName}.",
+      "action": "View project"
+    },
+    "archived": {
+      "title": "Project archived",
+      "body": "{userName} archived {projectName}. You can restore it from the archive at any time if you need to access your old tasks and files and documents and settings and team member configurations.",
+      "action": "Go to project"
+    },
+    "memberAdded": {
+      "title": "New team member",
+      "body": "{userName} added {newMember} to {projectName}.",
+      "action": "View project"
+    },
+    "statusUpdate": {
+      "title": "Project status changed",
+      "body": "{userName} marked {projectName} as {newStatus}.",
+      "action": "View project"
+    }
+  },
+  "mention": {
+    "title": "You were mentioned",
+    "body": "{user_name} mentioned you in a comment on \"{taskName}\".",
+    "action": "View project"
+  },
+  "system": {
+    "maintenance": {
+      "title": "Scheduled maintenance",
+      "body": "TechFlow will be briefly unavailable on {date} from {startTime} to {endTime}."
+    },
+    "update": {
+      "title": "What's new",
+      "body": "We've made some improvements! Check out the latest updates."
+    },
+    "welcome": {
+      "title": "Welcome to TechFlow",
+      "body": "Get started by creating your first project and inviting your team."
+    }
+  },
+  "error": {
+    "loadFailed": {
+      "title": "Couldn't load notifications",
+      "body": "Something went wrong loading your notifications! Please try refreshing the page.",
+      "retry": "Try again"
+    }
+  },
+  "preferences": {
+    "title": "Notification preferences",
+    "description": "Choose which notifications you want to receive.",
+    "email": "Email notifications",
+    "push": "Push notifications",
+    "inApp": "In-app notifications"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Upgrade your plan",
+  "subtitle": "Get access to advanced features for your team.",
+  "form": {
+    "cardNumber": "Card number",
+    "expiry": "Expiry date",
+    "cvv": "CVV",
+    "nameOnCard": "Name on card",
+    "billingAddress": "Billing address",
+    "zipCode": "ZIP / Postal code",
+    "country": "Country"
+  },
+  "plan": {
+    "free": {
+      "name": "Free",
+      "price": "$0/month",
+      "description": "For individuals getting started with project management.",
+      "features": {
+        "projects": "Up to 3 projects",
+        "members": "Up to 5 team members",
+        "storage": "500 MB storage"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "${price}/month",
+      "description": "For growing teams that need more power.",
+      "features": {
+        "projects": "Unlimited projects",
+        "members": "Up to 50 team members",
+        "storage": "50 GB storage",
+        "analytics": "Advanced analytics",
+        "support": "Priority support"
+      }
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom pricing",
+      "description": "For organizations that need advanced security and support.",
+      "features": {
+        "projects": "Unlimited projects",
+        "members": "Unlimited team members",
+        "storage": "Unlimited storage",
+        "analytics": "Custom analytics",
+        "support": "Dedicated account manager",
+        "sso": "Single sign-on (SSO)",
+        "audit": "Audit logs"
+      }
+    }
+  },
+  "button": {
+    "submit": "Complete purchase",
+    "back": "Return to plans",
+    "contact": "Contact sales"
+  },
+  "terms": "I agree to the Terms of Service and Privacy Policy",
+  "success": {
+    "title": "You're upgraded!",
+    "body": "Welcome to {planName}. Your new features are available immediately.",
+    "cta": "Go to dashboard"
+  },
+  "comparison": {
+    "title": "Compare plans",
+    "currentPlan": "Current plan",
+    "recommended": "Recommended"
+  }
+}
