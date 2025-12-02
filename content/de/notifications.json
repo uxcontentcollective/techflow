@@ -1,0 +1,95 @@
+{
+  "banner": {
+    "welcome": "Willkommen zurück! Schau dir an, was es Neues in TechFlow gibt.",
+    "dismiss": "Schließen"
+  },
+  "task": {
+    "assigned": {
+      "title": "Neue Aufgabe zugewiesen",
+      "body": "{userName} hat dir die Aufgabe \"{taskName}\" in {projectName} zugewiesen.",
+      "action": "Projekt ansehen"
+    },
+    "completed": {
+      "title": "Aufgabe abgeschlossen",
+      "body": "{userName} hat \"{taskName}\" in {projectName} abgeschlossen.",
+      "action": "Zum Projekt gehen"
+    },
+    "overdue": {
+      "title": "Aufgabe überfällig",
+      "body": "Deine Aufgabe \"{taskName}\" in {projectName} ist überfällig.",
+      "action": "Projekt öffnen"
+    },
+    "commented": {
+      "title": "Neuer Kommentar zur Aufgabe",
+      "body": "{userName} hat \"{taskName}\" in {projectName} kommentiert.",
+      "action": "Projekt ansehen"
+    },
+    "statusChanged": {
+      "title": "Aufgabenstatus aktualisiert",
+      "body": "{userName} hat den Status von \"{taskName}\" auf {newStatus} geändert.",
+      "action": "Projekt ansehen"
+    }
+  },
+  "project": {
+    "created": {
+      "title": "Neues Projekt erstellt",
+      "body": "{userName} hat ein neues Projekt erstellt: {projectName}.",
+      "action": "Projekt ansehen"
+    },
+    "archived": {
+      "title": "Projekt archiviert",
+      "body": "{userName} hat {projectName} archiviert. Du kannst es jederzeit aus dem Archiv wiederherstellen, wenn du auf deine alten Aufgaben und Dateien und Dokumente und Einstellungen und Teammitglieder-Konfigurationen zugreifen musst.",
+      "action": "Zum Projekt gehen"
+    },
+    "memberAdded": {
+      "title": "Neues Teammitglied",
+      "body": "{userName} hat {newMember} zu {projectName} hinzugefügt.",
+      "action": "Projekt ansehen"
+    },
+    "statusUpdate": {
+      "title": "Projektstatus geändert",
+      "body": "{userName} hat {projectName} als {newStatus} markiert.",
+      "action": "Projekt ansehen"
+    },
+    "deadline": {
+      "approaching": {
+        "title": "Projektfrist nähert sich",
+        "body": "Die Frist für {projectName} ist in {daysRemaining} Tagen.",
+        "action": "Projekt ansehen"
+      }
+    }
+  },
+  "mention": {
+    "title": "Du wurdest erwähnt",
+    "body": "{user_name} hat dich in einem Kommentar zu \"{taskName}\" erwähnt.",
+    "action": "Projekt ansehen"
+  },
+  "system": {
+    "maintenance": {
+      "title": "Geplante Wartung",
+      "body": "TechFlow wird am {date} von {startTime} bis {endTime} kurzzeitig nicht verfügbar sein."
+    },
+    "update": {
+      "title": "Neuigkeiten",
+      "body": "Wir haben einige Verbesserungen vorgenommen! Schau dir die neuesten Updates an."
+    },
+    "welcome": {
+      "title": "Willkommen bei TechFlow",
+      "body": "Erstelle dein erstes Projekt und lade dein Team ein, um loszulegen."
+    }
+  },
+  "error": {
+    "loadFailed": {
+      "title": "Benachrichtigungen konnten nicht geladen werden",
+      "body": "Beim Laden deiner Benachrichtigungen ist ein Fehler aufgetreten! Bitte versuche, die Seite zu aktualisieren.",
+      "retry": "Erneut versuchen"
+    }
+  },
+  "preferences": {
+    "title": "Benachrichtigungseinstellungen",
+    "description": "Wähle, welche Benachrichtigungen du erhalten möchtest.",
+    "email": "E-Mail-Benachrichtigungen",
+    "push": "Push-Benachrichtigungen",
+    "inApp": "In-App-Benachrichtigungen"
+  }
+}

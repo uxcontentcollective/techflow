@@ -1,0 +1,43 @@
+{
+  "welcome": {
+    "title": "Willkommen bei TechFlow",
+    "subtitle": "Lass uns deinen Arbeitsbereich in wenigen Schritten einrichten."
+  },
+  "steps": {
+    "profile": {
+      "title": "Richte dein Profil ein",
+      "description": "Füge deinen Namen und ein Foto hinzu, damit dein Team weiß, wer du bist.",
+      "placeholder": {
+        "name": "Dein vollständiger Name",
+        "role": "Deine Rolle (z.B. Designer, Entwickler)"
+      }
+    },
+    "project": {
+      "title": "Erstelle deinen ersten Arbeitsbereich",
+      "description": "Arbeitsbereiche helfen dir, Aufgaben, Dateien und Unterhaltungen zu organisieren.",
+      "placeholder": {
+        "name": "Name des Arbeitsbereichs",
+        "description": "Wofür ist dieser Arbeitsbereich?"
+      }
+    },
+    "invite": {
+      "title": "Lade dein Team ein",
+      "description": "Füge Teammitglieder per E-Mail hinzu. Du kannst das auch später tun.",
+      "placeholder": {
+        "email": "kollege@firma.com"
+      },
+      "addAnother": "Weitere hinzufügen"
+    }
+  },
+  "completion": {
+    "title": "Alles fertig!",
+    "description": "Dein Projekt ist bereit. Beginne mit dem Hinzufügen von Aufgaben und der Zusammenarbeit mit deinem Team.",
+    "cta": "Zum Projekt gehen"
+  },
+  "progress": {
+    "step": "Schritt {current} von {total}",
+    "skip": "Diesen Schritt überspringen",
+    "back": "Zurück",
+    "next": "Weiter"
+  }
+}

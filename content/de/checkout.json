@@ -1,0 +1,67 @@
+{
+  "title": "Plan upgraden",
+  "subtitle": "Erhalte Zugang zu erweiterten Funktionen für dein Team.",
+  "form": {
+    "cardNumber": "Kartennummer",
+    "expiry": "Ablaufdatum",
+    "cvv": "CVV",
+    "nameOnCard": "Name auf der Karte",
+    "billingAddress": "Rechnungsadresse",
+    "zipCode": "Postleitzahl",
+    "country": "Land"
+  },
+  "plan": {
+    "free": {
+      "name": "Kostenlos",
+      "price": "0 €/Monat",
+      "description": "Für Einzelpersonen, die mit Projektmanagement beginnen.",
+      "features": {
+        "projects": "Bis zu 3 Projekte",
+        "members": "Bis zu 5 Teammitglieder",
+        "storage": "500 MB Speicher"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "{price} €/Monat",
+      "description": "Für wachsende Teams, die mehr Leistung brauchen.",
+      "features": {
+        "projects": "Unbegrenzte Projekte",
+        "members": "Bis zu 50 Teammitglieder",
+        "storage": "50 GB Speicher",
+        "analytics": "Erweiterte Analysen",
+        "support": "Priorisierter Support"
+      }
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Individuelle Preisgestaltung",
+      "description": "Für Organisationen, die erweiterte Sicherheit und Support benötigen.",
+      "features": {
+        "projects": "Unbegrenzte Projekte",
+        "members": "Unbegrenzte Teammitglieder",
+        "storage": "Unbegrenzter Speicher",
+        "analytics": "Individuelle Analysen",
+        "support": "Persönlicher Ansprechpartner",
+        "sso": "Single Sign-On (SSO)",
+        "audit": "Audit-Protokolle"
+      }
+    }
+  },
+  "button": {
+    "submit": "Kauf abschließen",
+    "back": "Zurück zu den Plänen",
+    "contact": "Vertrieb kontaktieren"
+  },
+  "terms": "Ich stimme den Nutzungsbedingungen und der Datenschutzerklärung zu",
+  "success": {
+    "title": "Upgrade abgeschlossen!",
+    "body": "Willkommen bei {planName}. Deine neuen Funktionen sind sofort verfügbar.",
+    "cta": "Zum Dashboard"
+  },
+  "comparison": {
+    "title": "Pläne vergleichen",
+    "currentPlan": "Aktueller Plan",
+    "recommended": "Empfohlen"
+  }
+}

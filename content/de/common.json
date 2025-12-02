@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "projects": "Projekte",
+    "notifications": "Benachrichtigungen",
+    "settings": "Einstellungen",
+    "upgrade": "Upgrade",
+    "signOut": "Abmelden"
+  },
+  "actions": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "loading": "Wird geladen...",
+    "confirm": "Bestätigen",
+    "close": "Schließen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "submit": "Absenden",
+    "retry": "Erneut versuchen"
+  },
+  "empty": {
+    "generic": "Hier ist noch nichts.",
+    "projects": "Du hast noch keine Projekte. Erstelle eines, um loszulegen.",
+    "tasks": "Keine Aufgaben in diesem Projekt. Füge eine hinzu, um loszulegen.",
+    "notifications": "Alles erledigt. Keine neuen Benachrichtigungen.",
+    "search": "Keine Ergebnisse gefunden. Versuche andere Suchbegriffe.",
+    "team": "Noch keine Teammitglieder hinzugefügt. Lade jemanden zur Zusammenarbeit ein."
+  },
+  "status": {
+    "active": "Aktiv",
+    "completed": "Abgeschlossen",
+    "archived": "Archiviert",
+    "onTrack": "Im Zeitplan",
+    "atRisk": "Gefährdet",
+    "overdue": "Überfällig",
+    "draft": "Entwurf"
+  },
+  "time": {
+    "justNow": "Gerade eben",
+    "minutesAgo": "vor {count} Minuten",
+    "hoursAgo": "vor {count} Stunden",
+    "daysAgo": "vor {count} Tagen",
+    "today": "Heute",
+    "yesterday": "Gestern"
+  },
+  "confirmation": {
+    "unsavedChanges": "Du hast ungespeicherte Änderungen. Bist du sicher, dass du die Seite verlassen möchtest?",
+    "deleteConfirm": "Bist du sicher, dass du das löschen möchtest? Diese Aktion kann nicht rückgängig gemacht werden."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Kontoeinstellungen",
+  "profile": {
+    "heading": "Profil",
+    "displayName": "Anzeigename",
+    "email": "E-Mail-Adresse",
+    "role": "Rolle",
+    "avatar": "Profilfoto",
+    "changeAvatar": "Foto ändern",
+    "helper": "So wird dein Name anderen Benutzern angezeigt."
+  },
+  "notifications": {
+    "heading": "Benachrichtigungen",
+    "emailUpdates": "E-Mail bei wichtigen Updates",
+    "marketing": "Produktneuigkeiten und Ankündigungen erhalten",
+    "taskAssigned": "Benachrichtigung bei zugewiesener Aufgabe",
+    "mentions": "Benachrichtigung bei Erwähnung",
+    "weeklyDigest": "Wöchentliche Projektzusammenfassung erhalten"
+  },
+  "appearance": {
+    "heading": "Darstellung",
+    "theme": "Design",
+    "themeLight": "Hell",
+    "themeDark": "Dunkel",
+    "themeSystem": "Systemstandard",
+    "language": "Sprache"
+  },
+  "button": {
+    "save": "Änderungen speichern",
+    "cancel": "Abbrechen"
+  },
+  "saved": "Deine Einstellungen wurden gespeichert.",
+  "error": "Deine Einstellungen konnten nicht gespeichert werden. Bitte versuche es erneut."
+}
