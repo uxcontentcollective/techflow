@@ -11,7 +11,7 @@
     },
     "completed": {
       "title": "Task completed",
-      "body": "{userName} marked \"{taskName}\" as complete in {projectName}.",
+      "body": "{userName} completed \"{taskName}\" in {projectName}.",
       "action": "Go to project"
     },
     "overdue": {
