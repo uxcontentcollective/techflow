@@ -43,6 +43,8 @@ i18n
     defaultNS: 'common',
     interpolation: {
       escapeValue: false,
+      prefix: '{',
+      suffix: '}',
     },
   });
 
