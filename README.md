@@ -2,13 +2,6 @@
 
 This repository contains the front-end code and content files for TechFlow, a project management tool.
 
-## Getting started
-
-1. Clone the repository: `git clone [url]`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Open http://localhost:5173 in your browser
-
 ## Project structure
 
 - `content/` - Localization files organized by language
@@ -39,12 +32,10 @@ See `docs/string-management.md` for the team's process for content changes.
 
 ## Submitting your final project
 
-1. **Clone this repository** to your computer so you can explore it locally and run the application
-2. **Explore and audit** using the running app, the terminal, and AI tools
-3. **Create a branch** on GitHub's website (click the branch dropdown, type a name, press Enter)
-4. **Edit files** through GitHub's web editor on your branch (click the pencil icon on any file)
+3. **Create a branch** (click the branch dropdown, type a name, press Enter)
+4. **Edit files** through the web editor on your branch (click the pencil icon on any file)
 5. **Open a pull request** from your branch to main and fill in the PR template
-6. **Copy the PR link** and submit it through the course platform along with your written analysis
+6. **Submit your info** back in the final project section of the course
 
 ## Languages
 
