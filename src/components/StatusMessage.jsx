@@ -1,6 +1,6 @@
 function StatusMessage({ status }) {
   if (status === 'loading') {
-    return <p className="status-message loading">Loading your data...</p>;
+    return <p className="status-message loading">Loading your data!</p>;
   }
   if (status === 'error') {
     return <p className="status-message error">Something went wrong. Please try again.</p>;
