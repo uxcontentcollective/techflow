@@ -24,7 +24,7 @@
     "retry": "Try again"
   },
   "empty": {
-    "generic": "Nothing here yet.",
+    "generic": "There's nothing here yet.",
     "projects": "You don't have any projects yet. Create one to get started.",
     "tasks": "No tasks in this project. Add one to get started.",
     "notifications": "You're all caught up. No new notifications.",
